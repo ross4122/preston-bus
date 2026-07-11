@@ -11,7 +11,7 @@ const rReqIconFleetNumbers = new Set([
 "rotala|32234",
 "rotala|32235",
 "rotala|32237",
-"rotala|32252",
+"",
 "rotala|32322",
 "rotala|40406",
 "rotala|40807",
