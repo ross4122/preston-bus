@@ -17,7 +17,7 @@ const rReqIconFleetNumbers = new Set([
 "rotala|40807",
 "rotala|40834",
    // STAGECOACH JUL 26
-"stagecoach|15839",
+"",
 "stagecoach|15905",
 "stagecoach|15909",
 "stagecoach|15910",
